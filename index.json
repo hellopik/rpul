@@ -2,6 +2,7 @@
  {
    "kd_prov": "aceh",
    "nama": "Aceh",
+   "uri_logo": "htpps://indonesia.go.id/assets/img/province_logo/1543891992_Capture.JPG",
    "pulau": "Sumatera",
    "status": "Daerah khusus",
    "kd_bps": "11",
@@ -23,6 +24,7 @@
  {
    "kd_prov": "sumut",
    "nama": "Sumatera Utara",
+   "uri_logo": "htpps://indonesia.go.id/assets/img/province_logo/1516231367_Logo.png",
    "pulau": "Sumatera",
    "status": "Provinsi Biasa",
    "kd_bps": "12",
@@ -44,6 +46,7 @@
  {
    "kd_prov": "sumbar",
    "nama": "Sumatera Barat",
+   "uri_logo": "htpps://indonesia.go.id/assets/img/province_logo/1516231309_Logo.png",
    "pulau": "Sumatera",
    "status": "Provinsi Biasa",
    "kd_bps": "13",
@@ -65,6 +68,7 @@
  {
    "kd_prov": "riau",
    "nama": "Riau",
+   "uri_logo": "htpps://indonesia.go.id/assets/img/province_logo/1516231248_Logo.png",
    "pulau": "Sumatera",
    "status": "Provinsi Biasa",
    "kd_bps": "14",
@@ -86,6 +90,7 @@
  {
    "kd_prov": "kepri",
    "nama": "Kepulauan Riau",
+   "uri_logo": "htpps://indonesia.go.id/assets/img/province_logo/1516205509_Riau_Islands_COA.png",
    "pulau": "Sumatera",
    "status": "Provinsi Biasa",
    "kd_bps": "21",
@@ -107,6 +112,7 @@
  {
    "kd_prov": "jambi",
    "nama": "Jambi",
+   "uri_logo": "htpps://indonesia.go.id/assets/img/province_logo/1516203106_logo_Jambi.jpg",
    "pulau": "Sumatera",
    "status": "Provinsi Biasa",
    "kd_bps": "15",
@@ -128,6 +134,7 @@
  {
    "kd_prov": "bengkulu",
    "nama": "Bengkulu",
+   "uri_logo": "htpps://indonesia.go.id/assets/img/province_logo/1516204932_Bengkulu_coa.png",
    "pulau": "Sumatera",
    "status": "Provinsi Biasa",
    "kd_bps": "17",
@@ -149,6 +156,7 @@
  {
    "kd_prov": "sumsel",
    "nama": "Sumatera Selatan",
+   "uri_logo": "htpps://indonesia.go.id/assets/img/province_logo/1516231190_Logo_.png",
    "pulau": "Sumatera",
    "status": "Provinsi Biasa",
    "kd_bps": "16",
@@ -170,6 +178,7 @@
  {
    "kd_prov": "kepbabel",
    "nama": "Kepulauan Bangka Belitung",
+   "uri_logo": "htpps://indonesia.go.id/assets/img/province_logo/1516224085_Bangka_.png",
    "pulau": "Sumatera",
    "status": "Provinsi Biasa",
    "kd_bps": "19",
@@ -191,6 +200,7 @@
  {
    "kd_prov": "lampung",
    "nama": "Lampung",
+   "uri_logo": "htpps://indonesia.go.id/assets/img/province_logo/1516230776_logo.png",
    "pulau": "Sumatera",
    "status": "Provinsi Biasa",
    "kd_bps": "18",
@@ -212,6 +222,7 @@
  {
    "kd_prov": "banten",
    "nama": "Banten",
+   "uri_logo": "htpps://indonesia.go.id/assets/img/province_logo/1516225252_Logo_.png",
    "pulau": "Jawa",
    "status": "Provinsi Biasa",
    "kd_bps": "36",
@@ -233,6 +244,7 @@
  {
    "kd_prov": "jabar",
    "nama": "Jawa Barat",
+   "uri_logo": "htpps://indonesia.go.id/assets/img/province_logo/1516225003_logo_.png",
    "pulau": "Jawa",
    "status": "Provinsi Biasa",
    "kd_bps": "32",
@@ -254,6 +266,7 @@
  {
    "kd_prov": "dki",
    "nama": "DKI Jakarta",
+   "uri_logo": "htpps://indonesia.go.id/assets/img/province_logo/1516224497_logo.png",
    "pulau": "Jawa",
    "status": "Daerah Khusus Ibukota",
    "kd_bps": "31",
@@ -275,6 +288,7 @@
  {
    "kd_prov": "jateng",
    "nama": "Jawa Tengah",
+   "uri_logo": "htpps://indonesia.go.id/assets/img/province_logo/1516225526_Logo_.png",
    "pulau": "Jawa",
    "status": "Provinsi Biasa",
    "kd_bps": "33",
@@ -296,6 +310,7 @@
  {
    "kd_prov": "diy",
    "nama": "DI Yogyakarta",
+   "uri_logo": "htpps://indonesia.go.id/assets/img/province_logo/1516225770_Logo_.png",
    "pulau": "Jawa",
    "status": "Daerah Istimewa",
    "kd_bps": "34",
@@ -317,6 +332,7 @@
  {
    "kd_prov": "jatim",
    "nama": "Jawa Timur",
+   "uri_logo": "htpps://indonesia.go.id/assets/img/province_logo/1516226065_Logo_.png",
    "pulau": "Jawa",
    "status": "Provinsi Biasa",
    "kd_bps": "35",
@@ -338,6 +354,7 @@
  {
    "kd_prov": "bali",
    "nama": "Bali",
+   "uri_logo": "htpps://indonesia.go.id/assets/img/province_logo/1516231727_logo.png",
    "pulau": "Kepulauan Nusa Tenggara",
    "status": "Provinsi Biasa",
    "kd_bps": "51",
@@ -359,6 +376,7 @@
  {
    "kd_prov": "ntb",
    "nama": "Nusa Tenggara Barat",
+   "uri_logo": "htpps://indonesia.go.id/assets/img/province_logo/1516231983_Logo.png",
    "pulau": "Kepulauan Nusa Tenggara",
    "status": "Provinsi Biasa",
    "kd_bps": "52",
@@ -380,6 +398,7 @@
  {
    "kd_prov": "ntt",
    "nama": "Nusa Tenggara Timur",
+   "uri_logo": "htpps://indonesia.go.id/assets/img/province_logo/1516232184_logo.png",
    "pulau": "Kepulauan Nusa Tenggara",
    "status": "Provinsi Biasa",
    "kd_bps": "53",
@@ -401,6 +420,7 @@
  {
    "kd_prov": "kalbar",
    "nama": "Kalimantan Barat",
+   "uri_logo": "htpps://indonesia.go.id/assets/img/province_logo/1516226302_Logo_.png",
    "pulau": "Kalimantan",
    "status": "Provinsi Biasa",
    "kd_bps": "61",
@@ -422,6 +442,7 @@
  {
    "kd_prov": "kalsel",
    "nama": "Kalimantan Selatan",
+   "uri_logo": "htpps://indonesia.go.id/assets/img/province_logo/1551671440_Kalimantan_Selatan.png",
    "pulau": "Kalimantan",
    "status": "Provinsi Biasa",
    "kd_bps": "63",
@@ -443,6 +464,7 @@
  {
    "kd_prov": "kalteng",
    "nama": "Kalimantan Tengah",
+   "uri_logo": "htpps://indonesia.go.id/assets/img/province_logo/1516226531_Logo_.png",
    "pulau": "Kalimantan",
    "status": "Provinsi Biasa",
    "kd_bps": "62",
@@ -464,6 +486,7 @@
  {
    "kd_prov": "kaltim",
    "nama": "Kalimantan Timur",
+   "uri_logo": "htpps://indonesia.go.id/assets/img/province_logo/1516228566_Logo_.png",
    "pulau": "Kalimantan",
    "status": "Provinsi Biasa",
    "kd_bps": "64",
@@ -485,6 +508,7 @@
  {
    "kd_prov": "kalut",
    "nama": "Kalimantan Utara",
+   "uri_logo": "htpps://indonesia.go.id/assets/img/province_logo/1516227364_Logo.png",
    "pulau": "Kalimantan",
    "status": "Provinsi Biasa",
    "kd_bps": "-",
@@ -506,6 +530,7 @@
  {
    "kd_prov": "gorontalo",
    "nama": "Gorontalo",
+   "uri_logo": "htpps://indonesia.go.id/assets/img/province_logo/1539055101_logo_gorontalo.jpg",
    "pulau": "Sulawesi",
    "status": "Provinsi Biasa",
    "kd_bps": "75",
@@ -527,6 +552,7 @@
  {
    "kd_prov": "sulbar",
    "nama": "Sulawesi Barat",
+   "uri_logo": "htpps://indonesia.go.id/assets/img/province_logo/1516232534_Logo.png",
    "pulau": "Sulawesi",
    "status": "Provinsi Biasa",
    "kd_bps": "76",
@@ -548,6 +574,7 @@
  {
    "kd_prov": "sulsel",
    "nama": "Sulawesi Selatan",
+   "uri_logo": "htpps://indonesia.go.id/assets/img/province_logo/1539055013_sulawesi_selatan.png",
    "pulau": "Sulawesi",
    "status": "Provinsi Biasa",
    "kd_bps": "73",
@@ -569,6 +596,7 @@
  {
    "kd_prov": "sulteng",
    "nama": "Sulawesi Tengah",
+   "uri_logo": "htpps://indonesia.go.id/assets/img/province_logo/1539054559_LOGO_SULAWESI_TENGAH.png",
    "pulau": "Sulawesi",
    "status": "Provinsi Biasa",
    "kd_bps": "72",
@@ -590,6 +618,7 @@
  {
    "kd_prov": "sulut",
    "nama": "Sulawesi Utara",
+   "uri_logo": "htpps://indonesia.go.id/assets/img/province_logo/1539054742_sulut.png",
    "pulau": "Sulawesi",
    "status": "Provinsi Biasa",
    "kd_bps": "71",
@@ -611,6 +640,7 @@
  {
    "kd_prov": "maluku",
    "nama": "Maluku",
+   "uri_logo": "htpps://indonesia.go.id/assets/img/province_logo/1539055227_maluku.jpg",
    "pulau": "Kepulauan Maluku",
    "status": "Provinsi Biasa",
    "kd_bps": "81",
@@ -632,6 +662,7 @@
  {
    "kd_prov": "malut",
    "nama": "Maluku Utara",
+   "uri_logo": "htpps://indonesia.go.id/assets/img/province_logo/1539055413_Maluku_Utara.png",
    "pulau": "Kepulauan Maluku",
    "status": "Provinsi Biasa",
    "kd_bps": "82",
@@ -653,6 +684,7 @@
  {
    "kd_prov": "papua",
    "nama": "Papua",
+   "uri_logo": "htpps://indonesia.go.id/assets/img/province_logo/1541501965_Papua_logo.png",
    "pulau": "Papua",
    "status": "Daerah khusus",
    "kd_bps": "94",
@@ -674,6 +706,7 @@
  {
    "kd_prov": "papuabarat",
    "nama": "Papua Barat",
+   "uri_logo": "htpps://indonesia.go.id/assets/img/province_logo/1539055564_Papua_Barat.jpg",
    "pulau": "Papua",
    "status": "Daerah khusus",
    "kd_bps": "91",
