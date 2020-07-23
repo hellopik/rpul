@@ -1,0 +1,24 @@
+{
+   "kalbar": [ 
+			{ 
+      "nama": "Kalimantan Barat",
+      "pulau": "Kalimantan",
+      "status": "Provinsi Biasa",
+      "kd_bps": "61",
+      "kd_iso": "ID-KB",
+      "kd_kendaraan": "KB",
+      "kd_telp": "0564-0568, 0534",
+      "kd_pos": "78111-79682",
+      "luas_wilayah": "115.114,32",
+      "proyeksi_jmlpenduduk_2020": 513480,
+      "kepadatan": "4,46",
+      "pembagianadmin": "12 kabupaten dan 2 kota, 660 kecamatan, 8.513 desa/kelurahan",
+      "semboyan": "Akcaya / 'Tak kunjung binasa'",
+      "flora": "Tengkawang tungkul (Shorea stenoptera)",
+      "fauna": "Enggang Gading (Rhinoplax vigil)",
+      "pdrb_perkapita_2018": 2610813,
+      "situs": "www.kalbar.go.id",
+      "situs_bps": "www.kalbar.bps.go.id"
+			}  
+		]
+}

@@ -1,0 +1,24 @@
+{
+   "sulbar": [ 
+			{ 
+      "nama": "Sulawesi Barat",
+      "pulau": "Sulawesi",
+      "status": "Provinsi Biasa",
+      "kd_bps": "76",
+      "kd_iso": "ID-SR",
+      "kd_kendaraan": "DC",
+      "kd_telp": "0422, 0426, 0428",
+      "kd_pos": "91311-96365",
+      "luas_wilayah": "16.787,19",
+      "proyeksi_jmlpenduduk_2020": 140500,
+      "kepadatan": "8,37",
+      "pembagianadmin": "5 kabupaten, 65 kecamatan, 532 desa/kelurahan",
+      "semboyan": "Mellete Diatonganan / 'Meniti pada Kebenaran'",
+      "flora": "Cempaka hutan kasar (Elmerrillia ovalis)",
+      "fauna": "Mandar Dengkur (Aramidopsis plateni)",
+      "pdrb_perkapita_2018": 2299915,
+      "situs": "www.sulbar.go.id",
+      "situs_bps": "www.sulbar.bps.go.id"
+			}  
+		]
+}

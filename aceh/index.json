@@ -1,0 +1,24 @@
+{
+   "aceh": [ 
+			{ 
+      "nama": "Aceh",
+      "pulau": "Sumatera",
+      "status": "Daerah khusus",
+      "kd_bps": "11",
+      "kd_iso": "ID-AC",
+      "kd_kendaraan": "BL",
+      "kd_telp": "0641-0659, 0627, 0629",
+      "kd_pos": "23111-24791",
+      "luas_wilayah": "57.365,09",
+      "proyeksi_jmlpenduduk_2020": 545990,
+      "kepadatan": "9,52",
+      "pembagianadmin": "18 kabupaten dan 5 kota, 276 kecamatan, 6.424 desa/kelurahan",
+      "semboyan": "Pancacita / 'Lima cita-cita'",
+      "flora": "Bungong Jeumpa (Michelia champaca)",
+      "fauna": "Cicempala Kuneng/Kucica Ekor Kuning (Trichixos pyrropygus)",
+      "pdrb_perkapita_2018": 2401381,
+      "situs": "www.acehprov.go.id",
+      "situs_bps": "www.aceh.bps.go.id,"
+			}  
+		]
+}

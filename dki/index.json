@@ -1,0 +1,24 @@
+{
+   "dki": [ 
+			{ 
+      "nama": "DKI Jakarta",
+      "pulau": "Jawa",
+      "status": "Daerah Khusus Ibukota",
+      "kd_bps": "31",
+      "kd_iso": "ID-JK",
+      "kd_kendaraan": "B",
+      "kd_telp": "21",
+      "kd_pos": "10110-14530",
+      "luas_wilayah": "740,28",
+      "proyeksi_jmlpenduduk_2020": 1064500,
+      "kepadatan": "1.437,97",
+      "pembagianadmin": "1 kabupaten dan 5 kota, 78 kecamatan, 438 desa/kelurahan",
+      "semboyan": "Jaya Raya ('Jaya dan Agung')",
+      "flora": "Salak condet (Salacca edulis)",
+      "fauna": "Elang Bondol (Haliastur indus)",
+      "pdrb_perkapita_2018": 16586331,
+      "situs": "www.jakarta.go.id",
+      "situs_bps": "www.jakarta.bps.go.id"
+			}  
+		]
+}

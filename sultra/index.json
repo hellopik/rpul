@@ -1,0 +1,24 @@
+{
+   "sultra": [ 
+			{ 
+      "nama": "Sulawesi Tenggara",
+      "pulau": "Sulawesi",
+      "status": "Provinsi Biasa",
+      "kd_bps": "74",
+      "kd_iso": "ID-SG",
+      "kd_kendaraan": "DT",
+      "kd_telp": "0401-0408",
+      "kd_pos": "93111-93958",
+      "luas_wilayah": "36.757,45",
+      "proyeksi_jmlpenduduk_2020": 275560,
+      "kepadatan": "7,49",
+      "pembagianadmin": "10 kabupaten dan 2 kota, 185 kecamatan, 1.942 desa/kelurahan",
+      "semboyan": "Bolimo Karo Somanamo Lipu",
+      "flora": "	Anggrek serat (Dendrobium utile)",
+      "fauna": "Anoa (Bubalus depressicornis)",
+      "pdrb_perkapita_2018": 6448669,
+      "situs": "www.sultra.go.id",
+      "situs_bps": "www.sultra.bps.go.id"
+			}
+		]
+}

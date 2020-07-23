@@ -1,0 +1,24 @@
+{
+   "papua": [ 
+			{ 
+      "nama": "Papua",
+      "pulau": "Papua",
+      "status": "Daerah khusus",
+      "kd_bps": "94",
+      "kd_iso": "ID-PA",
+      "kd_kendaraan": "PA",
+      "kd_telp": "0951-0986, 0901, 0902",
+      "kd_pos": "98111-99974",
+      "luas_wilayah": "309.934,40",
+      "proyeksi_jmlpenduduk_2020": 343540,
+      "kepadatan": "1,11",
+      "pembagianadmin": "28 kabupaten dan 1 kota, 344 distrik, 3.575 kampung/kelurahan",
+      "semboyan": "Karya Swadaya",
+      "flora": "Buah merah (Pandanus conoideus)",
+      "fauna": "Cendrawasih 12 Kawat (Seleucidis melanoleucus)",
+      "pdrb_perkapita_2018": 4807454,
+      "situs": "www.papua.go.id",
+      "situs_bps": "www.papua.bps.go.id"
+			}  
+		]
+}

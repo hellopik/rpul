@@ -1,0 +1,24 @@
+{
+   "sulut": [ 
+			{ 
+      "nama": "Sulawesi Utara",
+      "pulau": "Sulawesi",
+      "status": "Provinsi Biasa",
+      "kd_bps": "71",
+      "kd_iso": "ID-SA",
+      "kd_kendaraan": "DB, DL",
+      "kd_telp": "0430-0438",
+      "kd_pos": "95111-95999",
+      "luas_wilayah": "13.930,73",
+      "proyeksi_jmlpenduduk_2020": 252880,
+      "kepadatan": "18,15",
+      "pembagianadmin": "11 kabupaten dan 4 kota, 149 kecamatan, 1.464 desa/kelurahan",
+      "semboyan": "Si Tou Timou Tumou Tou / 'Manusia hidup untuk memanusiakan orang lain'",
+      "flora": "Longusei (Ficus minahasae)",
+      "fauna": "Tangkasi (Tarsius tarsier)",
+      "pdrb_perkapita_2018": 3391522,
+      "situs": "www.sulut.go.id",
+      "situs_bps": "www.sulut.bps.go.id"
+			}  
+		]
+}

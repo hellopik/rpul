@@ -1,0 +1,24 @@
+{
+   "sulsel": [ 
+			{ 
+      "nama": "Sulawesi Selatan",
+      "pulau": "Sulawesi",
+      "status": "Provinsi Biasa",
+      "kd_bps": "73",
+      "kd_iso": "ID-SN",
+      "kd_kendaraan": "DD, DP, DW",
+      "kd_telp": "0410-0421, 0423, 0427, 0471-0485",
+      "kd_pos": "90111-92985",
+      "luas_wilayah": "46.116,45",
+      "proyeksi_jmlpenduduk_2020": 892800,
+      "kepadatan": "19,36",
+      "pembagianadmin": "21 kabupaten dan 3 kota, 303 kecamatan, 2.936 desa/kelurahan",
+      "semboyan": "Todo Poli / 'Teguh dalam keyakinan'",
+      "flora": "Lontar (Borassus flabellifer)",
+      "fauna": "Julang Sulawesi (Aceros cassidix)",
+      "pdrb_perkapita_2018": 3525361,
+      "situs": "www.sulsel.go.id",
+      "situs_bps": "www.sulsel.bps.go.id"
+			}  
+		]
+}

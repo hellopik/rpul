@@ -1,0 +1,24 @@
+{
+   "maluku": [ 
+			{ 
+      "nama": "Maluku",
+      "pulau": "Kepulauan Maluku",
+      "status": "Provinsi Biasa",
+      "kd_bps": "81",
+      "kd_iso": "ID-MA",
+      "kd_kendaraan": "DE",
+      "kd_telp": "0910-0931",
+      "kd_pos": "97114-97666",
+      "luas_wilayah": "49.350,42",
+      "proyeksi_jmlpenduduk_2020": 183190,
+      "kepadatan": "3,71",
+      "pembagianadmin": "9 kabupaten dan 2 kota, 72 kecamatan, 901 desa/kelurahan",
+      "semboyan": "Siwa Lima / 'Milik Bersama'",
+      "flora": "Anggrek Larat (Dendrobium phalaenopsis)",
+      "fauna": "Nuri raja Ambon (Alisterus amboinensis)",
+      "pdrb_perkapita_2018": 1661166,
+      "situs": "www.malukuprov.go.id",
+      "situs_bps": "www.maluku.bps.go.id"
+			}  
+		]
+}

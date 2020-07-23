@@ -1,0 +1,24 @@
+{
+   "kalteng": [ 
+			{ 
+      "nama": "Kalimantan Tengah",
+      "pulau": "Kalimantan",
+      "status": "Provinsi Biasa",
+      "kd_bps": "62",
+      "kd_iso": "ID-KT",
+      "kd_kendaraan": "KH",
+      "kd_telp": "0513-0539",
+      "kd_pos": "73111-74874",
+      "luas_wilayah": "153.564,50",
+      "proyeksi_jmlpenduduk_2020": 276920,
+      "kepadatan": "1,8",
+      "pembagianadmin": "13 kabupaten dan 1 kota, 149 kecamatan, 1.979 desa/kelurahan",
+      "semboyan": "Isen Mulang / 'Pantang Mundur'",
+      "flora": "Tenggaring (Nephelium lappaceum)",
+      "fauna": "Kuau Kerdil Kalimantan (Polyplectron schleiermacheri)",
+      "pdrb_perkapita_2018": 3555952,
+      "situs": "www.kalteng.go.id",
+      "situs_bps": "www.kalteng.bps.go.id"
+			}  
+		]
+}

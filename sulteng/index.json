@@ -1,0 +1,24 @@
+{
+   "sulteng": [ 
+			{ 
+      "nama": "Sulawesi Tengah",
+      "pulau": "Sulawesi",
+      "status": "Provinsi Biasa",
+      "kd_bps": "72",
+      "kd_iso": "ID-ST",
+      "kd_kendaraan": "DN",
+      "kd_telp": "0445-0465",
+      "kd_pos": "94111-94976",
+      "luas_wilayah": "68.089,83",
+      "proyeksi_jmlpenduduk_2020": 309700,
+      "kepadatan": "4,55",
+      "pembagianadmin": "10 kabupaten dan 1 kota, 147 kecamatan, 1.664 desa/kelurahan",
+      "semboyan": "Nosarara Nosabatutu / 'Bersama Kita Satu'",
+      "flora": "Eboni (Diospyros celebica)",
+      "fauna": "Maleo Senkawor (Macrocephalon maleo)",
+      "pdrb_perkapita_2018": 3441941,
+      "situs": "www.sulteng.go.id",
+      "situs_bps": "www.sulteng.bps.go.id"
+			}  
+		]
+}

@@ -1,0 +1,24 @@
+{
+   "gorontalo": [ 
+			{ 
+      "nama": "Gorontalo",
+      "pulau": "Sulawesi",
+      "status": "Provinsi Biasa",
+      "kd_bps": "75",
+      "kd_iso": "ID-GO",
+      "kd_kendaraan": "DM",
+      "kd_telp": "0435, 0443",
+      "kd_pos": "96111-96585",
+      "luas_wilayah": "11.967,64",
+      "proyeksi_jmlpenduduk_2020": 121960,
+      "kepadatan": "10,19",
+      "pembagianadmin": "5 kabupaten dan 1 kota, 44 kecamatan, 268 desa/kelurahan",
+      "semboyan": "Duluo Limo Lo Pohalaa; Bumi Serambi Madinah",
+      "flora": "Gofasa, gupasa (Vitex cofassus)",
+      "fauna": "Ikan Bulalao (Liza dussumieri)",
+      "pdrb_perkapita_2018": 2254135,
+      "situs": "www.gorontaloprov.go.id",
+      "situs_bps": "www.gorontalo.bps.go.id"
+			}  
+		]
+}

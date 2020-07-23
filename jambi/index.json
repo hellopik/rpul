@@ -1,0 +1,24 @@
+{
+   "jambi": [ 
+			{ 
+      "nama": "Jambi",
+      "pulau": "Sumatera",
+      "status": "Provinsi Biasa",
+      "kd_bps": "15",
+      "kd_iso": "ID-JA",
+      "kd_kendaraan": "BH",
+      "kd_telp": "0740-0748",
+      "kd_pos": "36111-37573",
+      "luas_wilayah": "53.509,19",
+      "proyeksi_jmlpenduduk_2020": 367790,
+      "kepadatan": "6,87",
+      "pembagianadmin": "9 kabupaten dan 2 kota, 65 kecamatan, 562 desa/kelurahan",
+      "semboyan": "Sepucuk Jambi Sembilan Lurah",
+      "flora": "Pinang merah (Cyrtostachys renda)",
+      "fauna": "Harimau Sumatera (Panthera tigris Sumaterae)",
+      "pdrb_perkapita_2018": 4005165,
+      "situs": "www.jambiprov.go.id",
+      "situs_bps": "www.jambi.bps.go.id"
+			}  
+		]
+}

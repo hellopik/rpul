@@ -1,0 +1,24 @@
+{
+   "diy": [ 
+			{ 
+      "nama": "DI Yogyakarta",
+      "pulau": "Jawa",
+      "status": "Daerah Istimewa",
+      "kd_bps": "34",
+      "kd_iso": "ID-YO",
+      "kd_kendaraan": "AB",
+      "kd_telp": "274",
+      "kd_pos": "55111-55893",
+      "luas_wilayah": "3.133,15",
+      "proyeksi_jmlpenduduk_2020": 388230,
+      "kepadatan": "123,91",
+      "pembagianadmin": "4 kabupaten dan 1 kota, 109 kecamatan, 1.334 desa/kelurahan",
+      "semboyan": "Hamemayu Hayuning Bawana / 'Mengalir dalam hembusan alam'",
+      "flora": "Kepel (Stelechocarpus burahol)",
+      "fauna": "Perkutut (Geopelia striata)",
+      "pdrb_perkapita_2018": 2577698,
+      "situs": "www.jogjaprov.go.id",
+      "situs_bps": "www.yogyakarta.bps.go.id"
+			}  
+		]
+}

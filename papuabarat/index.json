@@ -1,0 +1,24 @@
+{
+   "papuabarat": [ 
+			{ 
+      "nama": "Papua Barat",
+      "pulau": "Papua",
+      "status": "Daerah khusus",
+      "kd_bps": "91",
+      "kd_iso": "ID-PB",
+      "kd_kendaraan": "PB",
+      "kd_telp": "0951-0986, 0901, 0902",
+      "kd_pos": "98311-98662",
+      "luas_wilayah": "114.566,40",
+      "proyeksi_jmlpenduduk_2020": 98180,
+      "kepadatan": "0,86",
+      "pembagianadmin": "12 kabupaten dan 1 kota, 127 distrik, 1.286 kampung/kelurahan",
+      "semboyan": "Cintaku Negeriku",
+      "flora": "Matoa (Pometia pinnata)",
+      "fauna": "Cendrawasih Merah (Paradisaea rubra)",
+      "pdrb_perkapita_2018": 6448669,
+      "situs": "www.papuabaratprov.go.id",
+      "situs_bps": "www.papuabarat.bps.go.id"
+			}
+		]
+}

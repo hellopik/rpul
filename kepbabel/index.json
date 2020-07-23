@@ -1,0 +1,24 @@
+{
+   "kepbabel": [ 
+			{ 
+      "nama": "Kepulauan Bangka Belitung",
+      "pulau": "Sumatera",
+      "status": "Provinsi Biasa",
+      "kd_bps": "19",
+      "kd_iso": "ID-BB",
+      "kd_kendaraan": "BN",
+      "kd_telp": "0715-0719",
+      "kd_pos": "33111-33791",
+      "luas_wilayah": "16.424,14",
+      "proyeksi_jmlpenduduk_2020": 151760,
+      "kepadatan": "9,24",
+      "pembagianadmin": "6 kabupaten dan 1 kota, 135 kecamatan, 1.422 desa/kelurahan",
+      "semboyan": "Serumpun Sebalai / dari darah yang sama, dari tempat yang sama",
+      "flora": "Nagasari (Palaquium rostratum)",
+      "fauna": "Mantilin (Tarsius bancanus)",
+      "pdrb_perkapita_2018": 3576482,
+      "situs": "www.babelprov.go.id",
+      "situs_bps": "www.babel.bps.go.id"
+			}  
+		]
+}

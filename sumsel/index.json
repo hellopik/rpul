@@ -1,0 +1,24 @@
+{
+   "sumsel": [ 
+			{ 
+      "nama": "Sumatera Selatan",
+      "pulau": "Sumatera",
+      "status": "Provinsi Biasa",
+      "kd_bps": "16",
+      "kd_iso": "ID-SS",
+      "kd_kendaraan": "BG",
+      "kd_telp": "0711-0714, 0730-1735, 0702",
+      "kd_pos": "30111-32387",
+      "luas_wilayah": "85.679,42",
+      "proyeksi_jmlpenduduk_2020": 856790,
+      "kepadatan": "10",
+      "pembagianadmin": "15 kabupaten dan 5 kota, 212 kecamatan, 3.081 desa/kelurahan",
+      "semboyan": "Bersatu Teguh",
+      "flora": "Duku (Lansium domesticum)",
+      "fauna": "Ikan Belida (Chitala lopis)",
+      "pdrb_perkapita_2018": 3567000,
+      "situs": "www.sumselprov.go.id",
+      "situs_bps": "www.sumsel.bps.go.id"
+			}  
+		]
+}

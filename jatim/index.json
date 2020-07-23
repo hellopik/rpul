@@ -1,0 +1,24 @@
+{
+   "jatim": [ 
+			{ 
+      "nama": "Jawa Timur",
+      "pulau": "Jawa",
+      "status": "Provinsi Biasa",
+      "kd_bps": "35",
+      "kd_iso": "ID-JI",
+      "kd_kendaraan": "L, M, N, P, S, W, AE, AG",
+      "kd_telp": "031, 0321-0358",
+      "kd_pos": "60111-69493",
+      "luas_wilayah": "47.921,16",
+      "proyeksi_jmlpenduduk_2020": 3988630,
+      "kepadatan": "83,23",
+      "pembagianadmin": "29 kabupaten dan 9 kota, 573 kecamatan, 8.574 desa/kelurahan",
+      "semboyan": "Jer Basuki Mawa B?a / 'Kesuksesan membutuhkan pengorbanan'",
+      "flora": "Sedap malam (Polyanthes tuberosa)",
+      "fauna": "Ayam Bekisar (Gallus varius ? Gallus gallus)",
+      "pdrb_perkapita_2018": 3958792,
+      "situs": "www.jatimprov.go.id",
+      "situs_bps": "www.jatim.bps.go.id"
+			}  
+		]
+}

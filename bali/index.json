@@ -1,0 +1,24 @@
+{
+   "bali": [ 
+			{ 
+      "nama": "Bali",
+      "pulau": "Kepulauan Nusa Tenggara",
+      "status": "Provinsi Biasa",
+      "kd_bps": "51",
+      "kd_iso": "ID-BA",
+      "kd_kendaraan": "DK",
+      "kd_telp": "0361-0368",
+      "kd_pos": "80111-82262",
+      "luas_wilayah": "5.561,40",
+      "proyeksi_jmlpenduduk_2020": 438080,
+      "kepadatan": "78,77",
+      "pembagianadmin": "8 kabupaten dan 1 kota, 57 kecamatan, 710 desa/kelurahan",
+      "semboyan": "Bali Dwipa Jaya / 'Pulau Bali Jaya'",
+      "flora": "Majegau (Dysoxylum densiflorum)",
+      "fauna": "Jalak Bali (Leucopsar rotschildi)",
+      "pdrb_perkapita_2018": 3591460,
+      "situs": "www.baliprov.go.id",
+      "situs_bps": "www.bali.bps.go.id"
+			}  
+		]
+}

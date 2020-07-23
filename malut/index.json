@@ -1,0 +1,24 @@
+{
+   "malut": [ 
+			{ 
+      "nama": "Maluku Utara",
+      "pulau": "Kepulauan Maluku",
+      "status": "Provinsi Biasa",
+      "kd_bps": "82",
+      "kd_iso": "ID-MU",
+      "kd_kendaraan": "DG",
+      "kd_telp": "0910-0931",
+      "kd_pos": "97711-97863",
+      "luas_wilayah": "42.959,99",
+      "proyeksi_jmlpenduduk_2020": 127880,
+      "kepadatan": "2,98",
+      "pembagianadmin": "7 kabupaten dan 2 kota, 110 kecamatan, 1.002 desa/kelurahan",
+      "semboyan": "Marimoi Ngome Futuru",
+      "flora": "Cengkih (Syzygium aromaticum)",
+      "fauna": "Bidadari Halmahera (Semioptera wallacii)",
+      "pdrb_perkapita_2018": 2032246,
+      "situs": "www.malutprov.go.id",
+      "situs_bps": "www.malut.bps.go.id"
+			}  
+		]
+}

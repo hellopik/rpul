@@ -1,0 +1,24 @@
+{
+   "sumut": [ 
+			{ 
+      "nama": "Sumatera Utara",
+      "pulau": "Sumatera",
+      "status": "Provinsi Biasa",
+      "kd_bps": "12",
+      "kd_iso": "ID-SU",
+      "kd_kendaraan": "BB, BK",
+      "kd_telp": "0620-0639, 0601",
+      "kd_pos": "20111-22998",
+      "luas_wilayah": "72.981,23",
+      "proyeksi_jmlpenduduk_2020": 1470350,
+      "kepadatan": "20,15",
+      "pembagianadmin": "25 kabupaten dan 8 kota, 402 kecamatan, 5.867 desa/kelurahan",
+      "semboyan": "Mar Sipature Hutana Be / 'berlomba lomba membangun daerah'",
+      "flora": "Kenanga (Cananga odorata)",
+      "fauna": "Beo Nias (Gracula religiosa robusta)",
+      "pdrb_perkapita_2018": 3557071,
+      "situs": "www.sumutprov.go.id",
+      "situs_bps": "www.sumut.bps.go.id"
+			}  
+		]
+}

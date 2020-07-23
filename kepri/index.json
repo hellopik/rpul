@@ -1,0 +1,24 @@
+{
+   "kepri": [ 
+			{ 
+      "nama": "Kepulauan Riau",
+      "pulau": "Sumatera",
+      "status": "Provinsi Biasa",
+      "kd_bps": "21",
+      "kd_iso": "ID-KR",
+      "kd_kendaraan": "BP",
+      "kd_telp": "0771-0779",
+      "kd_pos": "29111-29875",
+      "luas_wilayah": "8.084,01",
+      "proyeksi_jmlpenduduk_2020": 224220,
+      "kepadatan": "27,74",
+      "pembagianadmin": "5 kabupaten dan 2 kota, 57 kecamatan, 340 desa/kelurahan",
+      "semboyan": "Berpancang Amanah Bersauh Marwah / 'Memperjuangkan Mandat, Memegang Teguh Tradisi'",
+      "flora": "Sirih (Piper betle)",
+      "fauna": "Ikan Kakap merah (Lutjanus sanguineus)",
+      "pdrb_perkapita_2018": 8129531,
+      "situs": "www.kepriprov.go.id",
+      "situs_bps": "www.kepri.bps.go.id"
+			}  
+		]
+}

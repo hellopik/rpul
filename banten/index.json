@@ -1,0 +1,24 @@
+{
+   "banten": [ 
+			{ 
+      "nama": "Banten",
+      "pulau": "Jawa",
+      "status": "Provinsi Biasa",
+      "kd_bps": "36",
+      "kd_iso": "ID-BT",
+      "kd_kendaraan": "A, B",
+      "kd_telp": "021, 0252-0257",
+      "kd_pos": "15111-15820, 42111-42455",
+      "luas_wilayah": "9.018,64",
+      "proyeksi_jmlpenduduk_2020": 1316050,
+      "kepadatan": "145,93",
+      "pembagianadmin": "4 kabupaten dan 4 kota, 40 kecamatan, 348 desa/kelurahan",
+      "semboyan": "Iman Taqwa",
+      "flora": "Kokoleceran (Vatica bantamensis)",
+      "fauna": "Badak Jawa (Rhinoceros sondaicus)",
+      "pdrb_perkapita_2018": 3419175,
+      "situs": "www.bantenprov.go.id",
+      "situs_bps": "www.banten.bps.go.id"
+			}  
+		]
+}

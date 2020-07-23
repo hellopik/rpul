@@ -1,0 +1,24 @@
+{
+   "kaltim": [ 
+			{ 
+      "nama": "Kalimantan Timur",
+      "pulau": "Kalimantan",
+      "status": "Provinsi Biasa",
+      "kd_bps": "64",
+      "kd_iso": "ID-KI",
+      "kd_kendaraan": "KT",
+      "kd_telp": "0541-0556",
+      "kd_pos": "75111-77573",
+      "luas_wilayah": "194.849,08",
+      "proyeksi_jmlpenduduk_2020": 456170,
+      "kepadatan": "2,34",
+      "pembagianadmin": "6 kabupaten dan 3 kota, 119 kecamatan, 1.453 desa/kelurahan",
+      "semboyan": "Ruhui Rahayu / 'Keseimbangan sempurna di segala hal berkat ridho Tuhan YME'",
+      "flora": "Anggrek hitam (Coelogyne pandurata)",
+      "fauna": "Pesut Mahakam (Orcaella brevirostris)",
+      "pdrb_perkapita_2018": 12738956,
+      "situs": "www.kaltimprov.go.id",
+      "situs_bps": "www.kaltim.bps.go.id"
+			}  
+		]
+}

@@ -1,0 +1,24 @@
+{
+   "kalut": [ 
+			{ 
+      "nama": "Kalimantan Utara",
+      "pulau": "Kalimantan",
+      "status": "Provinsi Biasa",
+      "kd_bps": "-",
+      "kd_iso": "ID-KU",
+      "kd_kendaraan": "KU",
+      "kd_telp": "0551-0556",
+      "kd_pos": "77111-77482",
+      "luas_wilayah": "71.176,72",
+      "proyeksi_jmlpenduduk_2020": 0,
+      "kepadatan": " -   ",
+      "pembagianadmin": "4 kabupaten dan 1 kota, 47 kecamatan, 381 desa/kelurahan",
+      "semboyan": "Benuanta / Mari Membangun",
+      "flora": "Bakau",
+      "fauna": "Gajah Borneo",
+      "pdrb_perkapita_2018": 8071646,
+      "situs": "www.kaltaraprov.go.id",
+      "situs_bps": ""
+			}  
+		]
+}

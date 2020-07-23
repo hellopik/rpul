@@ -1,0 +1,24 @@
+{
+   "kalsel": [ 
+			{ 
+      "nama": "Kalimantan Selatan",
+      "pulau": "Kalimantan",
+      "status": "Provinsi Biasa",
+      "kd_bps": "63",
+      "kd_iso": "ID-KS",
+      "kd_kendaraan": "DA",
+      "kd_telp": "0511-0527",
+      "kd_pos": "70111-72275",
+      "luas_wilayah": "36.805,34",
+      "proyeksi_jmlpenduduk_2020": 430400,
+      "kepadatan": "11,69",
+      "pembagianadmin": "11 kabupaten dan 2 kota, 176 kecamatan, 1.726 desa/kelurahan",
+      "semboyan": "Wadja Sampai Kaputing / 'Tetap bersemangat dan kuat seperti baja dari awal sampai akhir'",
+      "flora": "Kasturi (Mangifera casturi)",
+      "fauna": "Bekantan (Nasalis larvatus)",
+      "pdrb_perkapita_2018": 3062771,
+      "situs": "www.kalselprov.go.id",
+      "situs_bps": "www.kalsel.bps.go.id"
+			}  
+		]
+}

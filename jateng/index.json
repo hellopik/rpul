@@ -1,0 +1,24 @@
+{
+   "jateng": [ 
+			{ 
+      "nama": "Jawa Tengah",
+      "pulau": "Jawa",
+      "status": "Provinsi Biasa",
+      "kd_bps": "33",
+      "kd_iso": "ID-JT",
+      "kd_kendaraan": "G, H, K, R, AA, AD",
+      "kd_telp": "024, 0271-0299, 0356",
+      "kd_pos": "50111-59583",
+      "luas_wilayah": "33.987,45",
+      "proyeksi_jmlpenduduk_2020": 3494010,
+      "kepadatan": "102,8",
+      "pembagianadmin": "29 kabupaten dan 6 kota, 621 kecamatan, 5.883 desa/kelurahan",
+      "semboyan": "Prasetya Ulah Sakti Bhakti Praja / Berjanji akan berusaha keras dan setia terhadap negara'",
+      "flora": "Kantil (Michelia alba)",
+      "fauna": "Kepodang Emas (Oriolus chinensis)",
+      "pdrb_perkapita_2018": 2729082,
+      "situs": "www.jatengprov.go.id",
+      "situs_bps": "www.jateng.bps.go.id"
+			}  
+		]
+}

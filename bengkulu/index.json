@@ -1,0 +1,24 @@
+{
+   "bengkulu": [ 
+			{ 
+      "nama": "Bengkulu",
+      "pulau": "Sumatera",
+      "status": "Provinsi Biasa",
+      "kd_bps": "17",
+      "kd_iso": "ID-BE",
+      "kd_kendaraan": "BD",
+      "kd_telp": "0736-0739, 0732",
+      "kd_pos": "38113-39374",
+      "luas_wilayah": "19.788,70",
+      "proyeksi_jmlpenduduk_2020": 201980,
+      "kepadatan": "10,21",
+      "pembagianadmin": "9 kabupaten dan 1 kota, 154 kecamatan, 1.505 desa/kelurahan",
+      "semboyan": "-",
+      "flora": "Suweg raksasa (Amorphophallus titanum)",
+      "fauna": "Beruang madu (Helarctos malayanus)",
+      "pdrb_perkapita_2018": 2249843,
+      "situs": "www.bengkuluprov.go.id",
+      "situs_bps": "www.bengkulu.bps.go.id"
+			}  
+		]
+}

@@ -1,0 +1,24 @@
+{
+   "ntt": [ 
+			{ 
+      "nama": "Nusa Tenggara Timur",
+      "pulau": "Kepulauan Nusa Tenggara",
+      "status": "Provinsi Biasa",
+      "kd_bps": "53",
+      "kd_iso": "ID-NT",
+      "kd_kendaraan": "DH, EB, ED",
+      "kd_telp": "0380-0389",
+      "kd_pos": "85111-87284",
+      "luas_wilayah": "47.676,51",
+      "proyeksi_jmlpenduduk_2020": 554140,
+      "kepadatan": "11,62",
+      "pembagianadmin": "20 kabupaten dan 1 kota, 284 kecamatan, 2.845 desa/kelurahan",
+      "semboyan": "-",
+      "flora": "Cendana (Santalum album)",
+      "fauna": "Biawak Komodo (Varanus komodoensis)",
+      "pdrb_perkapita_2018": 1227612,
+      "situs": "www.nttprov.go.id",
+      "situs_bps": "www.ntt.bps.go.id"
+			}  
+		]
+}

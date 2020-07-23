@@ -1,0 +1,24 @@
+{
+   "riau": [ 
+			{ 
+      "nama": "Riau",
+      "pulau": "Sumatera",
+      "status": "Provinsi Biasa",
+      "kd_bps": "14",
+      "kd_iso": "ID-RI",
+      "kd_kendaraan": "BM",
+      "kd_telp": "0760-0769, 0624",
+      "kd_pos": "28111-29566",
+      "luas_wilayah": "94.560,00",
+      "proyeksi_jmlpenduduk_2020": 712830,
+      "kepadatan": "7,54",
+      "pembagianadmin": "10 kabupaten dan 2 kota, 151 kecamatan, 1.584 desa/kelurahan",
+      "semboyan": "Bumi Bertuah Negeri Beradat",
+      "flora": "Nibung (Oncosperma tigillarium)",
+      "fauna": "Serindit Melayu (Loriculus galgulus)",
+      "pdrb_perkapita_2018": 7074008,
+      "situs": "https://www.riau.go.id/",
+      "situs_bps": "www.riau.bps.go.id"
+			}  
+		]
+}

@@ -1,0 +1,24 @@
+{
+   "sumbar": [ 
+			{ 
+      "nama": "Sumatera Barat",
+      "pulau": "Sumatera",
+      "status": "Provinsi Biasa",
+      "kd_bps": "13",
+      "kd_iso": "ID-SB",
+      "kd_kendaraan": "BA",
+      "kd_telp": "0751-0759",
+      "kd_pos": "25111-27779",
+      "luas_wilayah": "42.297,30",
+      "proyeksi_jmlpenduduk_2020": 549880,
+      "kepadatan": "13",
+      "pembagianadmin": "12 kabupaten dan 7 kota, 175 kecamatan, 1.858 desa/kelurahan",
+      "semboyan": "Tuah Sakato / 'Manfaat kesepahaman'",
+      "flora": "Pohon Andalas (Morus macroura)",
+      "fauna": "Kuau raja (Argusianus argus)",
+      "pdrb_perkapita_2018": 3047063,
+      "situs": "www.sumbarprov.go.id",
+      "situs_bps": "www.sumbar.bps.go.id"
+			}  
+		]
+}

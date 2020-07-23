@@ -1,0 +1,24 @@
+{
+   "lampung": [ 
+			{ 
+      "nama": "Lampung",
+      "pulau": "Sumatera",
+      "status": "Provinsi Biasa",
+      "kd_bps": "18",
+      "kd_iso": "ID-LA",
+      "kd_kendaraan": "BE",
+      "kd_telp": "0721-0729",
+      "kd_pos": "34111-35686",
+      "luas_wilayah": "35.376,00",
+      "proyeksi_jmlpenduduk_2020": 852120,
+      "kepadatan": "24,09",
+      "pembagianadmin": "13 kabupaten dan 2 kota, 204 kecamatan, 2.361 desa/kelurahan",
+      "semboyan": "Sang Bumi Ruwa Jurai / 'Rumah Tangga yang Agung'",
+      "flora": "Bunga asar (Mirabilis jalapa)",
+      "fauna": "Gajah Sumatera (Elephas maximus Sumateranus)",
+      "pdrb_perkapita_2018": 2774203,
+      "situs": "www.lampungprov.go.id",
+      "situs_bps": "www.lampung.bps.go.id"
+			}  
+		]
+}
